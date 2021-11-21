@@ -38,10 +38,9 @@ Aster researching this topic, I found out that I can group then simply by listin
     text-align: center;
 
 
-Below is the browser view of the website
+Below is the browser deployed website link
 
-<img src= "./asssts/images/Website-Photo-1.jpg"/>
+https://github.com/thumbolinat/Week-One-Chalange.git
 
-<img src= "./asssts/images/Website-Photo-2.png"/>
+file:///C:/Users/mali_/Desktop/projects/Week-One-Chalange/Week-One-Chalange/index.html
 
-<img src= "./asssts/images/Website-Photo-3.png"/>
