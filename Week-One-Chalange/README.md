@@ -40,7 +40,7 @@ Aster researching this topic, I found out that I can group then simply by listin
 
 Below is the browser deployed website link
 
-https://github.com/thumbolinat/Week-One-Chalange.git
-
 file:///C:/Users/mali_/Desktop/projects/Week-One-Chalange/Week-One-Chalange/index.html
+
+
 
