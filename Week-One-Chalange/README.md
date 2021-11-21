@@ -40,8 +40,8 @@ Aster researching this topic, I found out that I can group then simply by listin
 
 Below is the browser view of the website
 
-![alt text](assets/images/Website-Photo-1.gif)
+<img src= "./asssts/images/Website-Photo-1.jpg"/>
 
-![alt text](assets/images/Websie-Photo-2.png)
+<img src= "./asssts/images/Website-Photo-2.png"/>
 
-![alt text](assets/images/Website-Photo-3.png)
+<img src= "./asssts/images/Website-Photo-3.png"/>
